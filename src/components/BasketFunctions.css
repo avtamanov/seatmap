@@ -1,0 +1,34 @@
+.basketList__container{
+    margin-top: 0;
+    width: 30%;
+    list-style: none;
+    position: relative;
+    float: right;
+}
+
+.basket__row{
+    border: 4px double gray;
+    margin-bottom: 8px;
+    padding: 5px;
+}
+
+.basketSeat__title{
+    margin: 0;
+    float: left;
+    text-align: left;
+}
+
+.basketSeat__content{
+    text-align: right;
+}
+
+#basketTotal__total{
+    float: left;
+    width: 20%;
+}
+
+.basket__total{
+    float: right;
+    text-align: right;
+    width: 80%;
+}

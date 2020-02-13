@@ -1,0 +1,40 @@
+.seatMap__wrapper{
+    width: 90%;
+}
+
+.seatMap_container{
+    width: 600px;
+    height: 700px;
+}
+
+#bg{
+    position: relative;
+    width: 400px;
+    height: 800px;
+    background-image: url(plane_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-x: 45%;
+    background-position-y: 25%;
+    transform: scale(2, 2);
+}
+
+.seatMap__list{
+    list-style: none;
+    position: relative;
+    left: 17%;
+    top: -300px;
+    width: 30%;
+}
+
+.segments__container{
+    margin-top: 0;
+    width: 30%;
+    left: 70%;
+    list-style: none;
+    position: sticky;
+}
+
+.segments__button{
+    width: 100%;
+}

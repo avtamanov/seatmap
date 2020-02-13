@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2197be14-555f-4c0a-819b-962e2a1d3fad" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jquery</find>
+      <find>&quot;S1&quot;</find>
+      <find>&quot;S2&quot;</find>
+      <find>S1</find>
+      <find>state</find>
+      <find>seat</find>
+      <find>chosenSeats</find>
+      <find>offerKey</find>
+      <find>bind</find>
+      <find>indexOf</find>
+      <find>United Economy|19|S1</find>
+      <find>displayState</find>
+      <find>Segments</find>
+      <find>segments__container</find>
+      <find>setState</find>
+      <find>rows</find>
+      <find>props</find>
+      <find>seatMap__list</find>
+      <find>sections</find>
+      <find>segment</find>
+      <find>ui</find>
+      <find>console</find>
+      <find>pass</find>
+      <find>basket</find>
+      <find>SeatRow</find>
+      <find>MyJson</find>
+      <find>basket__con</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="822" />
+    <option name="y" value="24" />
+    <option name="width" value="1105" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectId" id="1Q0qwvRCeHbqgA6gqBrg7yZVid1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2197be14-555f-4c0a-819b-962e2a1d3fad" name="Default Changelist" comment="" />
+      <created>1562069677957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562069677957</updated>
+      <workItem from="1562069680302" duration="936000" />
+      <workItem from="1562104552061" duration="8203000" />
+      <workItem from="1562240591295" duration="23121000" />
+      <workItem from="1562509041412" duration="19618000" />
+      <workItem from="1562539845371" duration="8220000" />
+      <workItem from="1562588624129" duration="425000" />
+      <workItem from="1562679449779" duration="1887000" />
+      <workItem from="1562691328382" duration="1250000" />
+      <workItem from="1562765862343" duration="19510000" />
+      <workItem from="1562863313759" duration="17605000" />
+      <workItem from="1562939105584" duration="25476000" />
+      <workItem from="1563056151371" duration="2006000" />
+      <workItem from="1566918124044" duration="609000" />
+      <workItem from="1578483904924" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
